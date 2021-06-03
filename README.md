@@ -1,6 +1,6 @@
 # Numpy-Library
 
-##Numpy Arrays
+## Numpy Arrays
 #### It provides extension package to multidimensional arrays
 #### Closer to hardware
 #### Designed for scientific computation
